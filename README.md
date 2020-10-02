@@ -3,8 +3,8 @@
 [![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Emojis)
 
-- # People
-
+<h1 style="border:2px solid Violet; text-align: center;"> # People </h1>
+  
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
 | :blush: `:blush:` | :smiley: `:smiley:` | :relaxed: `:relaxed:` |
