@@ -3,7 +3,7 @@
 [![](https://img.shields.io/badge/made_by-eduardodsr-green)](https://github.com/eduardods/)
 ![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Emojis)
 
-<h1><p align="center"> - # People </p></h1> 
+- ## People
   
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
 |---|---|---|
@@ -72,7 +72,7 @@
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
-- ### Nature
+- ## Nature
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 |---|---|---|
